@@ -1,3 +1,22 @@
+👋 Hi, I'm Ankit Kumar
+
+🎓 Aspiring Data Analyst | Google Certified
+📊 Passionate about Data Analytics, SQL, Python, Excel & Power BI
+📈 Turning raw data into meaningful insights and interactive dashboards
+🌱 Currently learning Machine Learning and Advanced SQL
+💼 Open to Data Analyst Internships and Entry-Level Opportunities
+
+🛠️ Tech Stack:
+• Python
+• SQL
+• Excel
+• Power BI
+• Tableau
+• Pandas
+• NumPy
+• Git & GitHub
+
+✨ "Data tells a story. I help uncover it."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_kumarofficial08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-b66067406) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankitkumar_chou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ANKITAIMUSIC2M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitkumar.data39@gmail.com) 
